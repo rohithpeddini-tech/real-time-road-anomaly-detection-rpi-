@@ -1,0 +1,9 @@
+Hardware Used:
+• Raspberry Pi (deployment target)
+• Camera module / dashcam input
+• MicroSD storage
+
+Optimization:
+• Lightweight YOLOv8 Nano model
+• Reduced input size
+• Efficient frame handling
