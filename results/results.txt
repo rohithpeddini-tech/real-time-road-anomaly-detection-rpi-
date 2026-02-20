@@ -1,0 +1,3 @@
+The system detects potholes and obstacles from road footage.
+Detection frames are stored automatically.
+Estimated performance: near real-time on optimized Raspberry Pi.
