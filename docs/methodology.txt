@@ -1,0 +1,5 @@
+1. Road footage captured using camera.
+2. Frames processed using YOLOv8 lightweight model.
+3. Potential anomalies detected.
+4. Bounding boxes drawn on detected regions.
+5. Output stored for monitoring.
